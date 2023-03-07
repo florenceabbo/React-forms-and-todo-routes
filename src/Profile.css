@@ -1,0 +1,75 @@
+.subprofile{
+    color: rgb(222, 85, 5); 
+    margin: 30px;
+}
+.languages{
+    display: grid;
+     /* grid-template-columns: 5fr 5fr 1fr 1fr;  */
+}
+.languagesfirst{
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
+.languagesecond{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-right: 30px;
+    
+}
+.react{
+   padding: 30px;
+   background-color:  rgb(110, 2, 2);
+   margin: 30px;
+   height:300px ; 
+   border-radius: 30px;
+   color: white;
+   font-size: 30px;
+   margin-top:-3px ;
+}
+.javascript{
+    padding: 30px;
+    background-color: rgb(222, 85, 5);
+    margin-right: 30px;
+    height: 150px;
+    margin-top: 30px;
+    border-radius: 30px;
+    color: white;
+   font-size: 30px;
+   margin-top:-3px ;
+}
+.python{
+    padding: 30px;
+    background-color:  rgb(222, 85, 5);
+    height: 75px;
+    border-radius: 30px;
+    margin-right: 10px;
+    color: white;
+   font-size: 20px;
+   margin-top:-15px ;
+}
+.html{
+    padding: 30px;
+    background-color: rgb(110, 2, 2);
+    height: 75px;
+    border-radius: 30px;
+    color: white;
+   font-size: 20px;
+   margin-top:-15px ;
+}
+.favicon2{
+    height: 200px;
+    width: 170px;
+    margin-top: -65px;
+}
+.favicon1{
+    height: 100px;
+    width: 100px;
+    margin-top: -40px;
+    margin-left: 110px;
+}
+.favicon3{
+    height: 100px;
+    width: 100px;
+    margin-top: -40px;
+    margin-left: 100px;
+}

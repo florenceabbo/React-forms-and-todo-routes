@@ -1,0 +1,62 @@
+
+.linkdiv {
+    list-style-type: none;
+    margin: 0;
+    padding:20px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgb(222, 85, 5);  
+    
+  }
+  
+  li {
+    list-style: none;
+    justify-content: space-around;
+  }
+  
+  .btns {
+    display: flex;
+    
+  
+  }
+  .link1{
+    text-decoration: none;
+    font-size: 30px;
+    justify-content: space-around;
+    list-style-type: none;
+    margin: 0;
+    padding:10px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgb(222, 85, 5);  
+  }
+  #Todos{
+    margin-right: 200px;
+   
+  }
+  #Forms{
+    margin-left: 150px;
+  }
+
+  /* .nav1 {
+    background-color: rgb(255, 153, 0);
+    /* padding: 0.5rem 1rem; */
+    /* border-radius: 0.5rem;
+    border: none; */
+    /* color: white;
+    text-decoration: none;
+    margin-right: 1rem;
+    font-size: 30px;
+  }  */
+  
+  /* .nav2 {
+    background-color: rgb(255, 153, 0);
+    /* padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    border: none; */
+    /* color: white;
+    text-decoration: none;
+    font-size: 30px;
+  } */ 

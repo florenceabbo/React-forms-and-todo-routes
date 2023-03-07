@@ -1,0 +1,60 @@
+/* *{
+  background-color: white
+} */
+
+.Home {
+    color:white;
+    text-align: center;
+    margin-top: -70px;
+    background-color: rgb(110, 2, 2) ;
+   
+
+  }
+   .image{
+    position: relative;
+    top: -20px;
+    
+  }
+  .landing-btn {
+    padding: 1rem;
+    border: none;
+    border-radius: 05rem;
+  }
+  
+  .navbuttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 70%;
+    margin: auto;
+    margin-bottom: -30px; 
+  }
+  
+  .todoview {
+    background-color: rgb(222, 85, 5);
+    padding:20px;
+    border-radius: 20px;
+    border: none;
+    color: rgb(3, 3, 146);
+    text-decoration: none;
+    font-size: 20px;
+    margin-bottom: 130px;
+  }
+  
+  .formview {
+    background-color: rgb(222, 85, 5);
+    padding:20px;
+    border-radius: 20px;
+    border: none;
+    color: rgb(3, 3, 146);
+    text-decoration: none;
+    font-size: 20px;
+    margin-bottom: 130px;
+  }
+  .footer{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* margin-left: 250px; */
+   background-color: rgb(222, 85, 5);
+   padding: 15px;
+   }

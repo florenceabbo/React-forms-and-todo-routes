@@ -1,0 +1,132 @@
+ 
+  .Forms{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-left: 20px;
+  margin-top: 20px;
+  } 
+ 
+  
+ 
+ 
+
+.forma{
+    /* margin: 0;
+    padding: 0; */
+    background-color: rgb(91, 2, 2);
+    color:white;
+    padding: 50px;
+    width: 350px;
+    /* height: 70vh;  */
+    border-radius: 20px;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+     /* margin-left: 500px;  */
+    border: 2px solid black;
+    /* margin-top: 20px; */
+  }
+   
+.formb{
+  /* margin: 0;
+  padding: 0; */
+  background-color: rgb(91, 2, 2);
+  color:white;
+  padding: 50px;
+  width: 350px;
+  /* height: 40vh;  */
+  border-radius: 20px;
+  font-size: 20px;
+  align-items: center;
+  justify-content: center;
+   /* margin-left: 500px;  */
+  border: 2px solid black;
+  /* margin-top: 20px; */
+}
+ 
+.formc{
+  /* margin: 0;
+  padding: 0; */
+  background-color: rgb(91, 2, 2);
+  color:white;
+  padding: 50px;
+  width: 350px;
+   height: 50vh;  
+  border-radius: 20px;
+  font-size: 20px;
+  align-items: center;
+  justify-content: center;
+   /* margin-left: 500px;  */
+  border: 2px solid black;
+  /* margin-top: 20px; */
+}
+  .header{
+    margin-left: 50px;
+  }
+  .inputform{
+    border-radius: 20px;
+    background-color: rgb(253, 171, 6);
+    padding:20px;
+    width: 90%;
+    color: black;
+    margin-top: 20px;
+    border:none
+    
+  
+  }
+  /* button{
+    border-radius: 10px;
+    background-color: rgb(183, 183, 249);
+    padding: 20px;
+    margin-left: 180px;
+    margin-top: 20px;
+  } */
+  .button1{
+    margin-left: 250px;
+    border-radius: 10px;
+    background-color:rgb(253, 171, 6);
+    padding: 20px;
+    border: none;
+    
+    margin-top: 20px;
+  }
+  label{
+    color: red;
+  }
+  .button2{
+    margin-left: 250px;
+    border-radius: 10px;
+    background-color:rgb(253, 171, 6);
+    padding: 20px;
+    border: none;
+    margin-top: 20px
+  }
+  option{
+    background-color:rgb(253, 171, 6); 
+  }
+  .button3{
+    margin-left: 250px;
+    margin-bottom: -50px;
+    border-radius: 10px;
+    background-color:rgb(253, 171, 6);
+    padding: 20px;
+    border: none;
+    margin-top: 20px
+  }
+   .textarea{ 
+     background-color: rgb(253, 171, 6);
+    border-radius: 20px;
+    width: 90%;
+    padding: 20px;
+    margin-right: 200px;
+  } 
+  #place{
+    font-size: 20px;
+    color: white;
+    
+  } 
+  .label1{
+    color: white;
+  }
+  
+  
